@@ -7,7 +7,7 @@ Instagram:   https://instagram.com/nikamooz/
 Telegram:	 https://telegram.me/nikamooz
 Created By:  Masoud Taheri 
 */
------------------------- ------ edited by Abolfathi 1401-11-01 ----------------------------------------
+--------------------------------------------------------------------------------
 /*
 ایجاد انباره داده
 */
