@@ -7,7 +7,7 @@ Instagram:   https://instagram.com/nikamooz/
 Telegram:	 https://telegram.me/nikamooz
 Created By:  Masoud Taheri 
 */
--------------------------------------------------------------------------------- sharbaafan
+------------------------------------------------Edit by M.javadAbolfathi-------------------------------- sharbaafan
 /*
 ایجاد انباره داده
 */
